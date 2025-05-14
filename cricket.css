@@ -1,0 +1,36 @@
+body
+{
+    text-align: center;
+}
+
+#heading 
+{
+    color: rgb(70, 105, 10);
+}
+.choice-button
+{
+    
+   border: none;
+   margin: 5px;
+   cursor: pointer;
+   background-color: white;
+}
+.choice-image
+{
+    height: 80px;
+}
+
+#ball
+{
+   height: 60px;
+}
+
+#reset
+{
+    height: 39px;
+    width: 39px;
+    font-size: 25px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(216, 216, 159);
+}
